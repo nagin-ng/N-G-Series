@@ -6,79 +6,182 @@
 
 [![Latest Release](https://img.shields.io/github/v/release/YOUR_USERNAME/YOUR_REPO?color=C0001D&label=Latest%20Release&style=for-the-badge)](../../releases/latest)
 [![Downloads](https://img.shields.io/github/downloads/YOUR_USERNAME/YOUR_REPO/total?color=C0001D&style=for-the-badge)](../../releases)
-[![Platform](https://img.shields.io/badge/Platform-Android-3DDC84?style=for-the-badge&logo=android)](#)
-[![License](https://img.shields.io/badge/License-Proprietary-lightgrey?style=for-the-badge)](#)
+[![Platform](https://img.shields.io/badge/Platform-Android%205.0%2B-3DDC84?style=for-the-badge&logo=android&logoColor=white)](#)
+[![Version](https://img.shields.io/badge/Version-2.1-C0001D?style=for-the-badge)](#)
+[![Size](https://img.shields.io/badge/Size-~15%20MB-orange?style=for-the-badge)](#)
+
+<br>
+
+**N𓆙G Series** is a sleek, modern streaming app that brings movies and web series
+straight to your Android device — stream online or download for offline viewing.
+
+<br>
+
+[⬇️ Download Latest APK](../../releases/latest) &nbsp;&nbsp;•&nbsp;&nbsp; [🐛 Report Bug](../../issues) &nbsp;&nbsp;•&nbsp;&nbsp; [💡 Request Feature](../../issues)
 
 </div>
 
 ---
 
-## 📱 About
-
-**N𓆙G Series** is a sleek, modern streaming app that brings movies and web series straight to your Android device. Browse, watch, and download your favorite content with a smooth, Netflix-style experience built for speed and simplicity.
-
----
-
 ## ✨ Features
 
-- 🎥 **Stream Movies & Web Series** — A growing library of content, organized and easy to browse
-- ⬇️ **Offline Downloads** — Save your favorite titles and watch without an internet connection
-- 🔔 **Real-Time Notifications** — Get notified instantly when new content drops
-- 🔒 **App Lock** — Secure the app with your fingerprint, face unlock, or device PIN
-- 🎬 **Smooth Video Player** — Gesture controls, screen lock while watching, picture-in-picture, playback speed control, and more
-- 🌙 **Dark, Cinematic UI** — A clean interface designed for binge-watching
-- ⚡ **Lightweight & Fast** — Built to run smoothly even on lower-end devices
-
----
-
-## 📥 Installation
-
-1. Go to the [**Releases**](../../releases/latest) page
-2. Download the latest `.apk` file under **Assets**
-3. On your Android device, open the downloaded file
-4. If prompted by **Google Play Protect**, tap **"Scan app"** and allow the install to continue — this is a standard one-time check for apps installed outside the Play Store
-5. Open the app and enjoy! 🍿
-
-> ⚠️ You may need to enable **"Install from Unknown Sources"** for your browser or file manager in your device's Settings if this is your first time installing an app outside the Play Store.
-
----
-
-## 🖥️ Requirements
-
-| Requirement | Minimum |
-|---|---|
-| Android Version | 5.0 (Lollipop) or higher |
-| Storage | ~50 MB free space (more for downloads) |
-| Internet | Required for streaming, optional once downloaded |
+<table>
+  <tr>
+    <td align="center" width="33%">
+      <h3>🎥</h3>
+      <b>Stream & Watch</b><br/>
+      <sub>Movies & Web Series with smooth playback</sub>
+    </td>
+    <td align="center" width="33%">
+      <h3>⬇️</h3>
+      <b>Offline Downloads</b><br/>
+      <sub>Save content and watch without internet</sub>
+    </td>
+    <td align="center" width="33%">
+      <h3>🔔</h3>
+      <b>Live Notifications</b><br/>
+      <sub>Instant push alerts for new content</sub>
+    </td>
+  </tr>
+  <tr>
+    <td align="center" width="33%">
+      <h3>🔒</h3>
+      <b>App Lock</b><br/>
+      <sub>Fingerprint, Face & PIN protection</sub>
+    </td>
+    <td align="center" width="33%">
+      <h3>🎬</h3>
+      <b>Advanced Player</b><br/>
+      <sub>Gestures, PiP, Speed control & Screen lock</sub>
+    </td>
+    <td align="center" width="33%">
+      <h3>👑</h3>
+      <b>VIP Access</b><br/>
+      <sub>Premium content for subscribed users</sub>
+    </td>
+  </tr>
+  <tr>
+    <td align="center" width="33%">
+      <h3>🌙</h3>
+      <b>Dark UI</b><br/>
+      <sub>Cinematic design, easy on the eyes</sub>
+    </td>
+    <td align="center" width="33%">
+      <h3>⚡</h3>
+      <b>Lightweight</b><br/>
+      <sub>Runs smoothly on all Android devices</sub>
+    </td>
+    <td align="center" width="33%">
+      <h3>🔄</h3>
+      <b>Regular Updates</b><br/>
+      <sub>New content & features added frequently</sub>
+    </td>
+  </tr>
+</table>
 
 ---
 
 ## 📸 Screenshots
 
 <div align="center">
-<!-- Add your app screenshots here -->
-<!-- <img src="screenshots/home.png" width="200"/> <img src="screenshots/player.png" width="200"/> <img src="screenshots/downloads.png" width="200"/> -->
 
-*Screenshots coming soon*
+| Home | Player | Downloads |
+|:---:|:---:|:---:|
+| <img src="screenshots/home.png" width="180" alt="Home Screen"/> | <img src="screenshots/player.png" width="180" alt="Video Player"/> | <img src="screenshots/downloads.png" width="180" alt="Downloads"/> |
+| **Home** | **Player** | **Downloads** |
+
+| Notifications | VIP | App Lock |
+|:---:|:---:|:---:|
+| <img src="screenshots/notifications.png" width="180" alt="Notifications"/> | <img src="screenshots/vip.png" width="180" alt="VIP Page"/> | <img src="screenshots/lock.png" width="180" alt="App Lock"/> |
+| **Notifications** | **VIP** | **App Lock** |
 
 </div>
 
+> 📁 **Screenshots add karne ka tarika:**
+> Apne GitHub repo mein `screenshots/` naam ka folder banao aur
+> neeche diye exact naamon se images upload karo — README mein
+> **automatically** dikh jaayengi, kuch aur karne ki zarurat nahi:
+>
+> | File naam | Screen |
+> |---|---|
+> | `screenshots/home.png` | Home / Main screen |
+> | `screenshots/player.png` | Video player |
+> | `screenshots/downloads.png` | Downloads page |
+> | `screenshots/notifications.png` | Notifications panel |
+> | `screenshots/vip.png` | VIP / Premium page |
+> | `screenshots/lock.png` | App lock screen |
+
 ---
 
-## 🆘 Support & Feedback
+## 📥 Installation
 
-Found a bug or have a suggestion? Open an [issue](../../issues) and let us know!
+> **N𓆙G Series** is not on the Play Store — install directly via APK below.
+
+**Step 1** — Go to [**Releases**](../../releases/latest) and download `NGSeries-v2.1.apk`
+
+**Step 2** — Open the downloaded file on your Android device
+
+**Step 3** — If **"Install from Unknown Sources"** is blocked:
+```
+Settings → Apps → Special App Access → Install Unknown Apps
+→ Select your browser/file manager → Allow
+```
+
+**Step 4** — If **Google Play Protect** shows a warning, tap **"Scan app"**
+then proceed — this is a standard one-time check for sideloaded apps ✅
+
+**Step 5** — Open N𓆙G Series and enjoy! 🍿
 
 ---
 
-## 📄 License
+## ⚙️ Requirements
 
-This project's source and assets are proprietary. Unauthorized redistribution, modification, or resale is not permitted.
+| | |
+|---|---|
+| 📱 **Android Version** | 5.0 (Lollipop) or higher |
+| 💾 **Storage** | ~50 MB free (more for downloads) |
+| 🌐 **Internet** | Required for streaming, optional after download |
+| 🔋 **Battery** | Background service for notifications |
+
+---
+
+## 🆕 What's New — v2.1
+
+- ✅ Real-time push notifications (new content alerts)
+- ✅ Improved video player screen lock / unlock flow
+- ✅ New brand identity — N𓆙G Series
+- ✅ Admin: Category management fix
+- ✅ Faster, more reliable Firebase backend
+
+[View full changelog →](../../releases/latest)
+
+---
+
+## 🆘 Support
+
+| | |
+|---|---|
+| 🐛 **Bug Report** | [Open an Issue](../../issues/new) |
+| 💡 **Feature Request** | [Open an Issue](../../issues/new) |
+| 📧 **Contact** | Add your contact/email here |
+
+---
+
+## ⚠️ Disclaimer
+
+This app is for **personal/private use only**. Unauthorized redistribution,
+modification, or resale of this application or its content is strictly prohibited.
 
 ---
 
 <div align="center">
 
+[![Download Now](https://img.shields.io/badge/⬇️%20Download%20Now-v2.1-C0001D?style=for-the-badge)](../../releases/latest)
+
+<br>
+
 **Made with ❤️ for movie & series lovers**
+
+<sub>© 2026 N𓆙G BoX. All rights reserved.</sub>
 
 </div>
