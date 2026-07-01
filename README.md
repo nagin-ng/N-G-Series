@@ -97,11 +97,6 @@ straight to your Android device — stream online or download for offline viewin
 
 </div>
 
-> 📁 **Screenshots add karne ka tarika:**
-> Apne GitHub repo mein `screenshots/` naam ka folder banao aur
-> neeche diye exact naamon se images upload karo — README mein
-> **automatically** dikh jaayengi, kuch aur karne ki zarurat nahi:
->
 > | File naam | Screen |
 > |---|---|
 > | `screenshots/home.png` | Home / Main screen |
@@ -121,16 +116,9 @@ straight to your Android device — stream online or download for offline viewin
 
 **Step 2** — Open the downloaded file on your Android device
 
-**Step 3** — If **"Install from Unknown Sources"** is blocked:
-```
-Settings → Apps → Special App Access → Install Unknown Apps
-→ Select your browser/file manager → Allow
-```
 
-**Step 4** — If **Google Play Protect** shows a warning, tap **"Scan app"**
-then proceed — this is a standard one-time check for sideloaded apps ✅
 
-**Step 5** — Open N𓆙G Series and enjoy! 🍿
+**Step 3** — Open N𓆙G Series and enjoy! 🍿
 
 ---
 
@@ -141,7 +129,6 @@ then proceed — this is a standard one-time check for sideloaded apps ✅
 | 📱 **Android Version** | 5.0 (Lollipop) or higher |
 | 💾 **Storage** | ~50 MB free (more for downloads) |
 | 🌐 **Internet** | Required for streaming, optional after download |
-| 🔋 **Battery** | Background service for notifications |
 
 ---
 
@@ -149,9 +136,6 @@ then proceed — this is a standard one-time check for sideloaded apps ✅
 
 - ✅ Real-time push notifications (new content alerts)
 - ✅ Improved video player screen lock / unlock flow
-- ✅ New brand identity — N𓆙G Series
-- ✅ Admin: Category management fix
-- ✅ Faster, more reliable Firebase backend
 
 [View full changelog →](../../releases/latest)
 
