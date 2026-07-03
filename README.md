@@ -90,10 +90,15 @@ straight to your Android device — stream online or download for offline viewin
 | <img src="screenshots/home.png" width="180" alt="Home Screen"/> | <img src="screenshots/player.png" width="180" alt="Video Player"/> | <img src="screenshots/downloads.png" width="180" alt="Downloads"/> |
 | **Home** | **Player** | **Downloads** |
 
-| Notifications | VIP |
-|:---:|:---:|
-| <img src="screenshots/notifications.png" width="180" alt="Notifications"/> | <img src="screenshots/vip.png" width="180" alt="VIP Page"/> |
-| **Notifications** | **VIP** |
+| Notifications | VIP | Profile |
+|:---:|:---:|:---:|
+| <img src="screenshots/notifications.png" width="180" alt="Notifications"/> | <img src="screenshots/vip.png" width="180" alt="VIP Page"/> | <img src="screenshots/profile.png" width="180" alt="Profile"/> |
+| **Notifications** | **VIP** | **Profile** |
+
+| In-App Update | Details Page | Search |
+|:---:|:---:|:---:|
+| <img src="screenshots/update.png" width="180" alt="In-App Update"/> | <img src="screenshots/details.png" width="180" alt="Movie/Web Series Details"/> | <img src="screenshots/search.png" width="180" alt="Search"/> |
+| **In-App Update** | **Details Page** | **Search** |
 
 </div>
 
@@ -127,6 +132,7 @@ whenever a new version is released — no need to come back here.
 ## 🆕 What's New — v2.2
 
 - ✅ In-app update system — install new versions directly, no Play Store round-trip
+- ✅ Real-time push notifications — instant alerts the moment new content or an update is added
 
 [View full changelog →](../../releases/latest)
 
@@ -139,6 +145,25 @@ whenever a new version is released — no need to come back here.
 | 🐛 **Bug Report** | [Open an Issue](../../issues/new) |
 | 💡 **Feature Request** | [Open an Issue](../../issues/new) |
 | 📧 **Contact** | [Telegram](https://t.me/htmlmovievg) |
+
+---
+
+## 💰 Buy Complete Project
+
+Want the **full source code** (User App + Admin Panel) for your own brand?
+DM the developer directly on Telegram — setup & customization support included.
+
+<div align="center">
+
+[![DM NH Developer](https://img.shields.io/badge/📩%20DM%20NH%20Developer-Telegram-26A5E4?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/htmlmovievg)
+
+</div>
+
+| | |
+|---|---|
+| 💻 **Support Platform** | Android & PC / Laptop |
+| 📦 **What you get** | Full source (User App + Admin Panel), setup help |
+| 📩 **How to buy** | Message [NH Developer on Telegram](https://t.me/htmlmovievg) |
 
 ---
 
